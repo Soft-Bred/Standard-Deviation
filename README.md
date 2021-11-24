@@ -53,8 +53,8 @@ Your Input would be: `9`,`*Enter*`,`14`,`*Enter*`,`27`,`*Enter*`,`18`,`*Enter*`,
 ```
 
 ## Optional
-Changing The First Value Of The Table Titles (In This Example `Number Of Parked Cars / Hour`)
-This wont Change Anything, But If You Want A Screenshot, You Might Want To.
+Changing The First Value Of The Table Titles (In This Example `Number Of Parked Cars / Hour`)  
+This Won't Change Anything, But If You Want A Screenshot, You Might Want To.
 
 Change The Fist Value In This List:
 ```py
