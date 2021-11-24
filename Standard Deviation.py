@@ -15,8 +15,12 @@ for H in range(HowManyRows):
 
 
 # Specify the Column Names while initializing the Table
-myTable = PrettyTable(["Number Of Parked Cars / Hour", "Frequency (ƒ)",
-                      "Cumulative Frequency", "Upper Class Boundary", "Mid Point (𝑥)", "ƒ𝑥"])
+myTable = PrettyTable(["Number Of Parked Cars / Hour",
+                       "Frequency (ƒ)",
+                       "Cumulative Frequency",
+                       "Upper Class Boundary",
+                       "Mid Point (𝑥)",
+                       "ƒ𝑥"])
 
 
 # Add rows
