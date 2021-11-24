@@ -3,7 +3,7 @@
 ## Step 1
 Enter Amount Of Rows In Table (Excluding Total)<br/>
 `Example: Amount Of Rows Would Be 5`
-```
+```py
 +------------------------------+
 | Number Of Parked Cars / Hour |
 +------------------------------+
@@ -38,7 +38,7 @@ Enter All Frequencies, In Order.
 `Example:`
 
 Your Input would be: `9`,`*Enter*`,`14`,`*Enter*`,`27`,`*Enter*`,`18`,`*Enter*`,`17`,`*Enter*`
-```
+```py
 +------------------------------+---------------+
 | Number Of Parked Cars / Hour | Frequency (ƒ) |
 +------------------------------+---------------+
@@ -57,10 +57,11 @@ Changing The First Value Of The Table Titles (In This Example `Number Of Parked 
 This wont Change Anything, But If You Want A Screenshot, You Might Want To.
 
 Change The Fist Value In This List:
-```
+```py
 myTable = PrettyTable(["Number Of Parked Cars / Hour",
                       "Frequency (ƒ)",
                       "Cumulative Frequency",
                       "Upper Class Boundary",
                       "Mid Point (𝑥)",
-                      "ƒ𝑥"])```
+                      "ƒ𝑥"])
+```
