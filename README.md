@@ -1,4 +1,4 @@
-<img width="1200" alt="Banner - Table" src="https://user-images.githubusercontent.com/60551230/143492669-797b4151-5677-42cb-8d1f-2479c22278df.png">
+![Banner - Table](https://user-images.githubusercontent.com/60551230/143493564-6c26998f-44e9-43e7-9aa8-0825d9a42044.png)
 
 ## Step 1
 Enter Amount Of Rows In Table (Excluding Total)
