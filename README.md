@@ -1,7 +1,5 @@
 <img width="1200" alt="Banner - Table" src="https://user-images.githubusercontent.com/60551230/143492669-797b4151-5677-42cb-8d1f-2479c22278df.png">
 
-# How To Use
-
 ## Step 1
 Enter Amount Of Rows In Table (Excluding Total)
 
