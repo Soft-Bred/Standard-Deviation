@@ -125,6 +125,7 @@ myTable.add_row(["", "", "", "", "", "", "", ""])
 myTable.add_row(["Total", int(sum(Frequency)), " ", " ",
                 sum(MidPointX), sum(FXList), " ", round(sum(Fxu2),2)])
 
+SD = math.sqrt(sum(Fxu2)/sum(Frequency))
 
 # Print
 
@@ -141,4 +142,4 @@ print(f"The Mean (μ) Is: {round(u,2)}")
 print("")
 print(f"The Median Value To Use With A Graph Is: {(sum(Frequency)+1)/2}")
 print("")
-print(f"The Standard Deviation (σ) Is: {round(math.sqrt(sum(Fxu2)/sum(Frequency),2))}")
+print(f"The Standard Deviation (σ) Is: {round(SD,2)}")
