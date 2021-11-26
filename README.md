@@ -49,4 +49,4 @@ This Won't Change Anything With The Math, But If You Want A Screenshot, You Migh
 # Output
 Output Should Look Something Like This Depending On How Many Rows You Enter:
 
-![Full](https://user-images.githubusercontent.com/60551230/143655652-d9b017b9-d877-425f-b6ac-4513d62970b3.png)
+<img width="1250" alt="Full" src="https://user-images.githubusercontent.com/60551230/143656045-4b630a41-fe29-42fc-9e0f-0cd28d0454c1.png">
