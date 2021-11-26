@@ -1,4 +1,4 @@
-![Banner - Table](https://user-images.githubusercontent.com/60551230/143493564-6c26998f-44e9-43e7-9aa8-0825d9a42044.png)
+![Banner - Table](https://user-images.githubusercontent.com/60551230/143655640-e05ed036-1f01-4aa7-a194-5f4ef1df4991.png)
 
 ## Step 1
 Enter Amount Of Rows In Table (Excluding Total)
@@ -49,4 +49,4 @@ This Won't Change Anything With The Math, But If You Want A Screenshot, You Migh
 # Output
 Output Should Look Something Like This Depending On How Many Rows You Enter:
 
-<img width="1250" alt="Full" src="https://user-images.githubusercontent.com/60551230/143435193-b16a924c-cf1c-4767-9225-ace9bf7b76d0.png">
+![Full](https://user-images.githubusercontent.com/60551230/143655652-d9b017b9-d877-425f-b6ac-4513d62970b3.png)
