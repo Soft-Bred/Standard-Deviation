@@ -27,7 +27,7 @@ Enter The First Value Of The First Interval
 
 
 
-## Setp 4
+## Step 4
 Enter All Frequencies, In Order.
 
 <img width="479" alt="Step 4" src="https://user-images.githubusercontent.com/60551230/143435181-5c71b675-d846-450b-becb-d48c37aa3e96.png">
